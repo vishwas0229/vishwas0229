@@ -31,4 +31,4 @@
 ---
 
 ## 📫 Connect With Me
-- ![LinkedIn:](https://)
+- ![LinkedIn:](https://www.linkedin.com/in/vishwas29/)
