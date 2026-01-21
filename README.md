@@ -15,19 +15,11 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, Shell, YAML  
+**Languages:** Python, C, HTML, CSS, JavaScript  
 **DevOps:** Docker, Jenkins, GitHub Actions  
 **Cloud:** AWS (EC2, VPC, IAM)  
-**OS:** Linux  
+**OS:** Linux, Windows 
 **Tools:** Git, GitHub, Bash
-
----
-
-## 🚀 Featured Projects
-🔹 **PRIME AI** – Voice-based AI Assistant  
-🔹 **CI/CD using Jenkins** – Docker-based pipelines  
-🔹 **Kubernetes Deployment** – Production-ready setup  
-🔹 **AWS VPC + NAT Architecture**
 
 ---
 
@@ -39,4 +31,4 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https:
+- [!LinkedIn:](https://)
