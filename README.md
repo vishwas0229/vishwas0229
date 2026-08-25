@@ -52,15 +52,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwas0229&show_icons=true&theme=tokyonight" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas0229&theme=tokyonight" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas0229&layout=compact&theme=tokyonight" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
