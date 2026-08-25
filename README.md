@@ -64,7 +64,7 @@
 
 ## 📈 Activity Graph
 
-[![Vishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwas0229&theme=tokyo-night)](https://github.com/vishwas0229)
+[![Vishwas's github activity graph]([https://github-readme-activity-graph.vercel.app/graph?username=vishwas0229&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=vishwas0229&theme=tokyo-night))](https://github.com/vishwas0229)
 
 ---
 
