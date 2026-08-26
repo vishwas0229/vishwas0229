@@ -10,10 +10,8 @@
 - Data Structures & Algorithms
 - Cyber Security
 - Artificial Intelligence & Machine Learning
-- PHP & Web Development
 
 🚀 **Working On**
-- Alpha Prime — AI Project
 - Open Source Contributions
 - DSA Problem Solving
 
