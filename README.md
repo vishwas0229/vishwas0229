@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishwas
+# Hi 👋, I'm Rahul
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
