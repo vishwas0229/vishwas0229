@@ -10,7 +10,7 @@
 - Data Structures & Algorithms
 - Cyber Security
 - Artificial Intelligence & Machine Learning
-- App Devlopment
+- App Development
 
 🚀 **Working On**
 - Open Source Contributions
