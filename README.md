@@ -25,13 +25,13 @@
     <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahul-058188435/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:852006rahul@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="mailto:rahul058@outlook.in">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="42" height="42" alt="Outlook" />
+    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" width="42" height="42" alt="Outlook" />
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/1206309521794932846">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" />
