@@ -24,13 +24,28 @@
   <a href="https://github.com/vishwas0229">
     <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/rahul-058188435/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+  </a>
   <a href="mailto:852006rahul@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
+  </a>
+  <a href="mailto:rahul058@outlook.in">
+    <img src="https://skillicons.dev/icons?i=outlook" width="50" alt="Outlook" />
+  </a>
+  <a href="https://discord.com/users/1206309521794932846">
+    <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
+  </a>
+  <a href="https://x.com/vishwas_29">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/vishwas_._29/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  💻 GitHub &nbsp; • &nbsp; 📧 Email
+  💻 GitHub &nbsp; • &nbsp; 💼 LinkedIn &nbsp; • &nbsp; 📧 Email &nbsp; • &nbsp; 📬 Outlook &nbsp; • &nbsp; 💬 Discord &nbsp; • &nbsp; 𝕏 X &nbsp; • &nbsp; 📸 Instagram
 </p>
 
 ---
