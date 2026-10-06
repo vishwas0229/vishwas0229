@@ -22,32 +22,37 @@
 
 <p align="center">
   <a href="https://github.com/vishwas0229">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  </a>
+    <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahul-058188435/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-  </a>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:852006rahul@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
-  </a>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:rahul058@outlook.in">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="50" alt="Outlook" />
-  </a>
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="42" height="42" alt="Outlook" />
+  </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/1206309521794932846">
-    <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
-  </a>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/vishwas_29">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="X" />
-  </a>
+    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/vishwas_._29/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  💻 GitHub &nbsp; • &nbsp; 💼 LinkedIn &nbsp; • &nbsp; 📧 Email &nbsp; • &nbsp; 📬 Outlook &nbsp; • &nbsp; 💬 Discord &nbsp; • &nbsp; 𝕏 X &nbsp; • &nbsp; 📸 Instagram
+  <b>GitHub</b> &nbsp;•&nbsp;
+  <b>LinkedIn</b> &nbsp;•&nbsp;
+  <b>Gmail</b> &nbsp;•&nbsp;
+  <b>Outlook</b> &nbsp;•&nbsp;
+  <b>Discord</b> &nbsp;•&nbsp;
+  <b>X</b> &nbsp;•&nbsp;
+  <b>Instagram</b>
 </p>
-
 ---
 
 ## 💻 Tech Stack
