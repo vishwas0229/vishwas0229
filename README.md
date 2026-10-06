@@ -27,30 +27,13 @@
 
 ## 💻 Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,bootstrap,react,mysql,git,github,linux,vscode" alt="Tech Stack" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=reactnative,nodejs,express,docker,firebase,threejs,gsap" alt="Additional Technologies" />
+</p>
 
 ---
 
