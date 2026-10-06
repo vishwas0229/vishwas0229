@@ -21,19 +21,31 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/vishwas0229"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />&nbsp; GitHub</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-058188435/"><img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn" />&nbsp; LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:852006rahul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />&nbsp; Gmail</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rahul058@outlook.in"><img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" width="42" height="42" alt="Outlook" />&nbsp; Outlook</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1206309521794932846"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" />&nbsp; Discord</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/vishwas_29"><img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" />&nbsp; X</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/vishwas_._29/"><img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />&nbsp; Instagram</a>
+  <a href="https://github.com/vishwas0229">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-058188435/">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="50" height="50" alt="LinkedIn" />
+  </a>
+  <a href="mailto:852006rahul@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
+  </a>
+  <a href="mailto:rahul058@outlook.in">
+    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" width="50" height="50" alt="Outlook" />
+  </a>
+  <a href="https://discord.com/users/1206309521794932846">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="50" height="50" alt="Discord" />
+  </a>
+  <a href="https://x.com/vishwas_29">
+    <img src="https://cdn.simpleicons.org/x/000000" width="50" height="50" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/vishwas_._29/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  💻 GitHub &nbsp; • &nbsp; 💼 LinkedIn &nbsp; • &nbsp; 📧 Gmail &nbsp; • &nbsp; 📬 Outlook &nbsp; • &nbsp; 💬 Discord &nbsp; • &nbsp; 𝕏 X &nbsp; • &nbsp; 📸 Instagram
 </p>
 ---
 
