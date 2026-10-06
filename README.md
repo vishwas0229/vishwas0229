@@ -31,10 +31,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,bootstrap,react,mysql,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,nodejs,express,docker,firebase,threejs,gsap" alt="Additional Technologies" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
