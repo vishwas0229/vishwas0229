@@ -21,35 +21,40 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/vishwas0229"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" /></a>
+  <a href="https://github.com/vishwas0229">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" /><br>
+    GitHub
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-058188435/"><img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rahul-058188435/">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn" /><br>
+    LinkedIn
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:852006rahul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" /></a>
+  <a href="mailto:852006rahul@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" /><br>
+    Gmail
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rahul058@outlook.in"><img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" width="42" height="42" alt="Outlook" /></a>
+  <a href="mailto:rahul058@outlook.in">
+    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" width="42" height="42" alt="Outlook" /><br>
+    Outlook
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1206309521794932846"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" /></a>
+  <a href="https://discord.com/users/1206309521794932846">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" /><br>
+    Discord
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/vishwas_29"><img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" /></a>
+  <a href="https://x.com/vishwas_29">
+    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" /><br>
+    X
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/vishwas_._29/"><img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  <span>💻 GitHub</span>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>💼 LinkedIn</span>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>📧 Gmail</span>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>📬 Outlook</span>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>💬 Discord</span>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>𝕏 X</span>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>📸 Instagram</span>
+  <a href="https://www.instagram.com/vishwas_._29/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" /><br>
+    Instagram
+  </a>
 </p>
 ---
 
