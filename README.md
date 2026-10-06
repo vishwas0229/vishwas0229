@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
   </a>
   <a href="mailto:rahul058@outlook.in">
-    <img src="https://skillicons.dev/icons?i=outlook" width="50" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="50" alt="Outlook" />
   </a>
   <a href="https://discord.com/users/1206309521794932846">
     <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
