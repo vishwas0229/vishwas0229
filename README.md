@@ -22,13 +22,13 @@
 
 <p align="center">
   <a href="https://github.com/vishwas0229">
-    <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahul-058188435/">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:852006rahul@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="mailto:rahul058@outlook.in">
     <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" width="42" height="42" alt="Outlook" />
@@ -40,7 +40,7 @@
     <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/vishwas_._29/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
   </a>
 </p>
 
